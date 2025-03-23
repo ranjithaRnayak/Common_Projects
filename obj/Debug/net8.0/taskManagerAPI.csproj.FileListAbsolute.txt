@@ -40,3 +40,4 @@ C:\Users\surya\OneDrive\Desktop\CK\Ranjitha\Projects\NET_Trials\taskManagerAPI\b
 C:\Users\surya\OneDrive\Desktop\CK\Ranjitha\Projects\NET_Trials\taskManagerAPI\bin\Debug\net8.0\taskManagerAPI.pdb
 C:\Users\surya\OneDrive\Desktop\CK\Ranjitha\Projects\NET_Trials\taskManagerAPI\obj\Debug\net8.0\taskManagerAPI.genruntimeconfig.cache
 C:\Users\surya\OneDrive\Desktop\CK\Ranjitha\Projects\NET_Trials\taskManagerAPI\obj\Debug\net8.0\ref\taskManagerAPI.dll
+C:\Users\surya\OneDrive\Desktop\CK\Ranjitha\Projects\NET_Trials\taskManagerAPI\obj\Debug\net8.0\taskManagerAPI.sourcelink.json
